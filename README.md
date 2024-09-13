@@ -1,2 +1,1 @@
-# -vetime1
 # ComponentProject
